@@ -21,7 +21,7 @@ interface RefMapping {
 
 const SegmentedInput: FC<SegmentedInputProps> = ({ length, onChange }) => {
   const refs = useRef<RefMapping>({});
-  const [code, setCode] = useState(Array.from({ length: length }, () => ''));
+  const [code, setCode] = useState(Array.from({ length }, () => ''));
   const [focusedIndex, setFocusedIndex] = useState(0);
   const { width } = Dimensions.get('window');
 

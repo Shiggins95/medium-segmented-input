@@ -1,5 +1,5 @@
 ## Description
-Inside this repo you find the project used for [this medium article](ENTER_URL).
+Inside this repo you find the project used for [this medium article](https://shiggins95.medium.com/create-a-smooth-segmented-text-input-in-react-native-30a2cd06f8c7).
 It is a basic demonstration app for a segmented text input.
 
 ### Running the app
